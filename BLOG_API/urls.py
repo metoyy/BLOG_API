@@ -50,14 +50,3 @@ urlpatterns = [
 ]
 
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
-
-# TODO ViewSet, actions
-# TODO likes
-# TODO favorites
-# TODO images
-# TODO documentation
-# TODO filter
-# TODO search
-# TODO pagination
-# TODO deploying
-# TODO followings
